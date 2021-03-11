@@ -16,6 +16,4 @@ The strategy used to speculate the market curves is the Fibonacci statistics pro
 #### 
     import graficos
 
-![Capturar123](https://user-images.githubusercontent.com/78438631/110785245-7c9fc100-8249-11eb-8d8c-6e4679d06c8b.PNG)
-
 A thought in this project was to create a current real market graph. The requirement was 
