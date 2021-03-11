@@ -1,3 +1,4 @@
+
 # TraderBot
 TraderBot is the beginning of a personal project that has as final goal the achievement of a significant profit with its processes. The current hit percentage is 71%. The nexts steps is ML implemantation to better predict the market fluctuations.
 
@@ -24,3 +25,9 @@ A thought in this project was to create a current real market graph. To deal wit
 
 <img src="https://user-images.githubusercontent.com/78438631/110786473-f2f0f300-824a-11eb-8de3-83a6f29c197a.PNG" width="70%" height="70%">
 
+Besides the basic resources the code is able to:
+* Save the informations (prints stops/takes, times, dates...) of each trade
+* Simulate the trade
+* Change the trade strategy
+
+WARNING: the code is still being refined! 
