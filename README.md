@@ -11,7 +11,11 @@ The packages required in this projects are: **MetaTrader 5**, **Pandas** and **M
 The Trader platform used was Metatrader 5.
 
 # Fibonacci Lines
-The strategy used to speculate the market curves is the Fibonacci statistics proportions. To maintain the organization in the code lines a package called "graficos" was created. The package plots is responsable to plot each graph element
+The strategy used to speculate the market curves is the Fibonacci statistics proportions. To maintain the organization in the code lines a package called "graficos" was created, wich was responsable to plot each graph element.
 
 #### 
     import graficos
+
+![Capturar123](https://user-images.githubusercontent.com/78438631/110785245-7c9fc100-8249-11eb-8d8c-6e4679d06c8b.PNG)
+
+A thought in this project was to create a current real market graph. The requirement was 
