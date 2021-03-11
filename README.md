@@ -29,6 +29,6 @@ Besides the basic resources the code is able to:
 * Save the informations (prints stops/takes, times, dates...) of each trade
 * Simulate the trade
 * Change the trade strategy
-* Profits and Losses control
+* Record Profits and Losses
 
 WARNING: the code is still being refined! 
